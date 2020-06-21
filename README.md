@@ -1,6 +1,6 @@
 # CSGO-GlowHack-Demo
 
-This is not detected at the momement but it is recommended that you add junkcode
+Add JunkCode to the cheat!
 
 Update the offsets here https://github.com/frk1/hazedumper/blob/master/csgo.hpp
 
