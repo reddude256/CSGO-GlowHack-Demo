@@ -1,6 +1,6 @@
 # CSGO-GlowHack-Demo
 
-Add JunkCode to the cheat!
+Add junk code to the cheat!
 
 Update the offsets here https://github.com/frk1/hazedumper/blob/master/csgo.hpp
 
